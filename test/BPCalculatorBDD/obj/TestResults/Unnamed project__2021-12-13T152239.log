@@ -1,0 +1,27 @@
+﻿2021-12-13T15:22:39.5165630+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-12-13T15:22:39.5167030+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework net50 in x64 mode execution started
+2021-12-13T15:22:39.5167070+00:00;VSTestExecutionThread;Info;TestAdapter Location: /Users/eddyekofo/Documents/Programming/Projects/csd_ca1/test/BPCalculatorBDD/bin/Debug/net5.0/TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-12-13T15:22:39.5188140+00:00;VSTestExecutionThread;Info;Current UserName: 'eddyekofo', MachineName: 'MacBook-Pro'
+2021-12-13T15:22:39.5469080+00:00;VSTestExecutionThread;Info;SpecRun: running tests in /Users/eddyekofo/Documents/Programming/Projects/csd_ca1/test/BPCalculatorBDD/bin/Debug/net5.0/BPCalculatorBDD.dll
+2021-12-13T15:22:39.5471270+00:00;VSTestExecutionThread;Info;Output folder configured to "/Users/eddyekofo/Documents/Programming/Projects/csd_ca1/test/BPCalculatorBDD/obj/TestResults" (default)
+2021-12-13T15:22:39.5471950+00:00;VSTestExecutionThread;Info;Profile: 
+2021-12-13T15:22:39.6477780+00:00;VSTestExecutionThread;Info;Log file path: /Users/eddyekofo/Documents/Programming/Projects/csd_ca1/test/BPCalculatorBDD/obj/TestResults/Unnamed project__2021-12-13T152239.log
+2021-12-13T15:22:39.6550200+00:00;VSTestExecutionThread;Info;Checking activation
+2021-12-13T15:22:40.9555720+00:00;VSTestExecutionThread;Error;****************************************************************************************************************
+2021-12-13T15:22:40.9559600+00:00;VSTestExecutionThread;Error;*                                           SpecFlow+ Runner                                                   *
+2021-12-13T15:22:40.9560560+00:00;VSTestExecutionThread;Error;****************************************************************************************************************
+2021-12-13T15:22:40.9566440+00:00;VSTestExecutionThread;Error;Please sign-up for your free SpecFlow account or sign-in with your already existing account here:
+2021-12-13T15:22:40.9568090+00:00;VSTestExecutionThread;Error;https://account.specflow.org/clientactivation/welcome/Runner/0ECCD9918CEC4FA29D5E3A3289487D2F7139EE0C26CA20D2E30BA1A3ED7158E8E23DFFC6/NotActivatedYet
+2021-12-13T15:22:40.9569030+00:00;VSTestExecutionThread;Error;to execute your Scenarios again.
+2021-12-13T15:22:40.9572780+00:00;VSTestExecutionThread;Error;If you are reading this message on a build agent, we couldn't recognize the agent.
+2021-12-13T15:22:40.9573950+00:00;VSTestExecutionThread;Error;Please get in touch with us at support@specflow.org.
+2021-12-13T15:22:40.9576490+00:00;VSTestExecutionThread;Error;****************************************************************************************************************
+2021-12-13T15:22:40.9620200+00:00;VSTestExecutionThread;Error;No tests executed (activation needed)
+2021-12-13T15:22:40.9741950+00:00:Total: 0
+2021-12-13T15:22:40.9759200+00:00:Succeeded: 0
+2021-12-13T15:22:40.9761900+00:00:Ignored: 0
+2021-12-13T15:22:40.9764540+00:00:Pending: 0
+2021-12-13T15:22:40.9772340+00:00:Skipped: 0
+2021-12-13T15:22:40.9775570+00:00:Failed: 0
+2021-12-13T15:22:40.9825080+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

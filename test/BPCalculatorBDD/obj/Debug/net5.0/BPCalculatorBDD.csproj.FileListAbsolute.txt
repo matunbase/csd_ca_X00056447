@@ -1,0 +1,5 @@
+/Users/eddyekofo/Documents/Programming/Projects/csd_ca1/test/BPCalculatorBDD/obj/Debug/net5.0/BPCalculatorBDD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eddyekofo/Documents/Programming/Projects/csd_ca1/test/BPCalculatorBDD/obj/Debug/net5.0/BPCalculatorBDD.AssemblyInfoInputs.cache
+/Users/eddyekofo/Documents/Programming/Projects/csd_ca1/test/BPCalculatorBDD/obj/Debug/net5.0/BPCalculatorBDD.AssemblyInfo.cs
+/Users/eddyekofo/Documents/Programming/Projects/csd_ca1/test/BPCalculatorBDD/obj/Debug/net5.0/BPCalculatorBDD.csproj.CoreCompileInputs.cache
+/Users/eddyekofo/Documents/Programming/Projects/csd_ca1/test/BPCalculatorBDD/obj/Debug/net5.0/BPCalculatorBDD.csproj.AssemblyReference.cache

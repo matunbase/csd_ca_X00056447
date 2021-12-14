@@ -1,0 +1,8 @@
+test/BPCalculatorTests/obj/**
+test/BPCalculatorTests/bin/**
+.vscode/**
+obj/**
+bin/**
+test/MyFavouriteAPI.Tests/obj/**
+test/MyFavouriteAPI.Tests/bin/**
+.vs/**
