@@ -7,6 +7,10 @@ on:
   pull_request:
     branches:
     - prod
+
+defaults:
+  run:
+    working-directory: './src/BPCalculator'
     
 env:    
   AZURE_WEBAPP_NAME: csa-bp
@@ -42,4 +46,4 @@ jobs:
         with:
           app-name: ${{ env.AZURE_WEBAPP_NAME }}
           publish-profile: ${{ secrets.AZURE_SECRET_PROFILE }}
-          package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+          package: ${{ env.AZUREAPPSERVICE_PUBLISHPROFILE_8E960ACC173B4074BB67B942E12EB140 }}
