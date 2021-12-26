@@ -7,6 +7,10 @@ on:
   pull_request:
     branches:
     - prod
+
+defaults:
+  run:
+    working-directory: './src/BPCalculator'
     
 env:    
   AZURE_WEBAPP_NAME: csa-bp
