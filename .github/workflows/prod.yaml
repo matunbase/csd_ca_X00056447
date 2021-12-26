@@ -13,7 +13,7 @@ defaults:
     working-directory: './src/BPCalculator'
     
 env:    
-  AZURE_WEBAPP_NAME: csa-bp
+  AZURE_WEBAPP_NAME: BloodPressureApp
   AZURE_WEBAPP_PACKAGE_PATH: './published'
   NETCORE_VERSION: '5.0.x'
 
