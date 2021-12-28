@@ -1,0 +1,3 @@
+[submodule "BPCalculator"]
+	path = src/BPCalculator
+	url = https://github.com/matunbase/BPCalculator.git
